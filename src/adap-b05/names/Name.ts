@@ -1,5 +1,5 @@
-import { Equality } from "../common/Equality";
 import { Cloneable } from "../common/Cloneable";
+import { Equality } from "../common/Equality";
 import { Printable } from "../common/Printable";
 
 /**
